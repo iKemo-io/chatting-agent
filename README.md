@@ -9,7 +9,7 @@ This is a Streamlit application that allows two local Ollama models to chat with
 - **Real-time Streaming**: See the conversation unfold in real-time.
 - **Save Chat**: Download the entire conversation as a Markdown file.
 
-[![Watch the demo](https://raw.githubusercontent.com/iKemo-io/chatting-agent/main/demo-thumbnail.png)](https://github.com/iKemo-io/chatting-agent/blob/main/demo.mp4)
+![App Demo](demo.gif)
 
 
 ## How to run the app
