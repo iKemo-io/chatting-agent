@@ -2,14 +2,15 @@
 
 This is a Streamlit application that allows two local Ollama models to chat with each other.
 
+![App Demo](demo.gif)
+
+
 ## Features
 
 - **Model Selection**: Choose two different Ollama models to act as agents.
 - **Conversation Control**: Start and stop the conversation at any time.
 - **Real-time Streaming**: See the conversation unfold in real-time.
 - **Save Chat**: Download the entire conversation as a Markdown file.
-
-![App Demo](demo.gif)
 
 
 ## How to run the app
